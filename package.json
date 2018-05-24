@@ -2,7 +2,7 @@
   "name": "automerge",
   "version": "0.7.8",
   "description": "Data structures for building collaborative applications",
-  "main": "dist/automerge.js",
+  "main": "src/automerge.js",
   "scripts": {
     "browsertest": "karma start karma.conf.js",
     "test": "mocha",
